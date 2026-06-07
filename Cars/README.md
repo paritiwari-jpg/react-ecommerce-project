@@ -1,6 +1,24 @@
-# React E-Commerce Project
+# AutoElite - React E-Commerce Project
 
-A React-based E-Commerce website built using React and Vite.
+A modern car e-commerce homepage built using React and Vite.
+
+## Features
+
+* Responsive Navigation Bar
+* Hero Section
+* Categories Section
+* Featured Cars Section
+* Customer Testimonials
+* Contact Section
+* Footer
+
+## Technologies Used
+
+* React.js
+* Vite
+* JavaScript
+* CSS3
+* HTML5
 
 ## Screenshots
 
@@ -10,16 +28,17 @@ A React-based E-Commerce website built using React and Vite.
 
 ### Categories
 
-![Categories](./screenshot/carsscreenshot2.png)
+![Categories](./screenshot/carscreenshot2.png)
 
-### Featured Products
+### Featured Cars
 
-![Featured Products](./screenshot/carscreenshot3.png)
+![Featured Cars](./screenshot/carscreenshot3.png)
 
-### Featured Products
+### Featured Cars
 
-![Featured Products](./screenshot/carscreenshot4.png)
+![Featured Cars](./screenshot/carscreenshot4.png)
 
 ### Testimonials & Footer
 
 ![Testimonials & Footer](./screenshot/carscreenshot5.png)
+

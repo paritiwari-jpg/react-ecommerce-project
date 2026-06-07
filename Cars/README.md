@@ -28,7 +28,7 @@ A modern car e-commerce homepage built using React and Vite.
 
 ### Categories
 
-![Categories](./screenshot/carscreenshot2.png)
+![Categories](./screenshot/carsscreenshot2.png)
 
 ### Featured Cars
 
